@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1539154061 source:c:\users\fvg\desktop\veronica.bustos.1a\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquileres.h"
+	"utn.h"
+	"clientes.h"
+	"juegos.h"
+	<limits.h>
+
+1539155130 c:\users\fvg\desktop\veronica.bustos.1a\alquileres.h
+	"alquileres.h"
+	"utn.h"
+	"clientes.h"
+	"juegos.h"
+
+1539147655 c:\users\fvg\desktop\veronica.bustos.1a\utn.h
+
+1539141281 c:\users\fvg\desktop\veronica.bustos.1a\clientes.h
+	"utn.h"
+
+1539155130 c:\users\fvg\desktop\veronica.bustos.1a\juegos.h
+
+1539146470 source:c:\users\fvg\desktop\veronica.bustos.1a\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"clientes.h"
+	"utn.h"
+
+1539146544 source:c:\users\fvg\desktop\veronica.bustos.1a\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"juegos.h"
+	"utn.h"
+
+1539154061 source:c:\users\fvg\desktop\veronica.bustos.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+
+1539154903 source:c:\users\fvg\desktop\veronica.bustos.1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1541364584 source:c:\users\fvg\desktop\bustos.veronica.1a\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquileres.h"
+	"utn.h"
+	"clientes.h"
+	"juegos.h"
+	<limits.h>
+
+1541354559 c:\users\fvg\desktop\bustos.veronica.1a\alquileres.h
+	"alquileres.h"
+	"utn.h"
+	"clientes.h"
+	"juegos.h"
+
+1539147655 c:\users\fvg\desktop\bustos.veronica.1a\utn.h
+
+1541354559 c:\users\fvg\desktop\bustos.veronica.1a\clientes.h
+	"utn.h"
+
+1541354559 c:\users\fvg\desktop\bustos.veronica.1a\juegos.h
+
+1541199833 source:c:\users\fvg\desktop\bustos.veronica.1a\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"clientes.h"
+	"utn.h"
+
+1541530899 source:c:\users\fvg\desktop\bustos.veronica.1a\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"juegos.h"
+	"utn.h"
+
+1541364663 source:c:\users\fvg\desktop\bustos.veronica.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+	"informes.h"
+
+1541368400 source:c:\users\fvg\desktop\bustos.veronica.1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1541368726 source:c:\users\fvg\desktop\bustos.veronica.1a\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquileres.h"
+	"utn.h"
+	"clientes.h"
+	"juegos.h"
+	<limits.h>
+
+1541364764 c:\users\fvg\desktop\bustos.veronica.1a\informes.h
+
